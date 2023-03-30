@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Construction Equipment Platform Rukki.Pro as Frontend Developer<br>👯 I’m looking to collaborate on creating stunning animations, using gsap and Anime.js<br>🤝 I’m looking for help with Three.js<br>🌱 I’m currently learning SSR<br>💬 Ask me about anything you want to know)<br>⚡ Fun fact - i was a DJ:)
+🔭 I’m currently working on Construction Equipment Platform Rukki.Pro as a Frontend Developer<br>👯 I’m looking to collaborate on creating stunning animations, using gsap and Anime.js<br>🤝 I’m looking for help with Three.js<br>🌱 I’m currently learning SSR<br>💬 Ask me about anything you want to know)<br>⚡ Fun fact - i was a DJ:)
 
 
 ## 🌐 Socials:
