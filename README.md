@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I begin from 1 Januari at Digitpaint B.V. Arnhem as a Frontend Web Developer<br>👯 I’m looking to collaborate on creating stunning animations, using gsap and Anime.js<br>🤝 I’m looking for help with Three.js<br>🌱 I’m currently learning Server Side Rendering and Wordpress<br>💬 Ask me about anything you want to know)<br>⚡ Fun fact - I was a DJ:)
+🔭 Frontend Developer Digitpaint B.V. Arnhem as a Frontend Web Developer<br>👯 I’m looking to collaborate on creating stunning animations, using gsap and Anime.js<br>🤝 I’m looking for help with Three.js<br>🌱 I’m currently learning Server Side Rendering and Wordpress<br>💬 Ask me about anything you want to know)<br>⚡ Fun fact - I was a DJ:)
 
 
 ## 🌐 Socials:
